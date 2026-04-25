@@ -1,7 +1,7 @@
 # 📊 Customer Churn Analysis & Prediction
 
 ## 📌 Project Overview
-This project analyzes customer churn behavior in a telecom company to identify key factors that lead to customer attrition and suggest strategies for improving retention.
+End-to-end analysis of telecom customer churn using Python, SQL, and Power BI to identify key drivers and recommend retention strategies.
 
 ---
 
