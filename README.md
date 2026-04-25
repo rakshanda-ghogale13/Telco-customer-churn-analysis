@@ -66,15 +66,15 @@ GROUP BY Contract, Churn;
 
 ---
 
-📊 Key Insights
-- Customers with month-to-month contracts have the highest churn
-- Higher monthly charges increase churn probability
-- Customers with longer tenure are less likely to churn
+## 📊 Key Insights
+- Customers with month-to-month contracts exhibit the highest churn rates
+- Higher monthly charges are strongly associated with increased churn
+- Customers with shorter tenure are significantly more likely to churn
 
 ---
 
-💡 Business Recommendations
-- Encourage long-term contracts with incentives
-- Offer discounts to high-risk customers
-- Improve retention strategies for new customers
+## 💡 Business Recommendations
+- Promote long-term contracts with incentives to reduce churn
+- Identify high-risk customers and target them with retention campaigns
+- Improve onboarding experience for new customers to increase retention
 
