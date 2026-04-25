@@ -6,6 +6,7 @@ This project analyzes customer churn behavior in a telecom company to identify k
 ---
 
 ## 📊 Dashboard
+Interactive Power BI dashboard highlighting churn trends and key metrics.
 
 <img width="1303" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/9ce39069-fc09-4cf5-98fb-b8df279f1b77" />
 
@@ -13,7 +14,6 @@ This project analyzes customer churn behavior in a telecom company to identify k
 
 <img width="1303" height="732" alt="Dashboard 2" src="https://github.com/user-attachments/assets/d89f71b8-b221-43b1-901c-221cea227269" />
 
-Interactive Power BI dashboard highlighting churn trends and key metrics.
 ---
 
 ## 🎯 Objectives
@@ -48,13 +48,13 @@ Interactive Power BI dashboard highlighting churn trends and key metrics.
 
 - Example queries:
 
-SELECT Churn, COUNT(*) 
-FROM churn
-GROUP BY Churn;
+- SELECT Churn, COUNT(*) 
+   FROM churn
+   GROUP BY Churn;
 
-SELECT Contract, Churn, COUNT(*) 
-FROM churn
-GROUP BY Contract, Churn;
+- SELECT Contract, Churn, COUNT(*) 
+  FROM churn
+  GROUP BY Contract, Churn;
 
 4. Machine Learning Model
 - Model Used: Logistic Regression
